@@ -1,7 +1,7 @@
 '''pca_cov.py
 Performs principal component analysis using the covariance matrix approach
 Ruby Nunez
-May 27 2023
+March 27 2023
 '''
 import numpy as np
 import matplotlib.pyplot as plt
