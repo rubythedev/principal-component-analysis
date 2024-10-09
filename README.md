@@ -44,18 +44,10 @@ In the realm of data science, understanding and simplifying complex datasets is 
 
 ## 📚 Getting Started
 
-### 🔧 Installation
+### 🔧 Retrieve Data
 
-1. **Clone the Repository**
-    ```bash
-    git clone https://github.com/yourusername/pca_cov.git
-    cd pca_cov
-    ```
-
-2. **Install Dependencies**
-    ```bash
-    pip install -r requirements.txt
-    ```
+1. **Download the Data**
+   - Download the zipped folder from [Google Drive](https://drive.google.com/file/d/1p2PZC2RBFu1vQmgUg1hTB20Z8URIMmSl/view?usp=drive_link).
 
 ### 📝 Usage
 
